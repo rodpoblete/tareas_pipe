@@ -19,4 +19,3 @@ else:
     peso_ideal = 25 * altura ** 2
     bajar_peso = peso_actual - peso_ideal
     print(f"Sobrepeso, debes bajar {round(bajar_peso, 4)} kilos para tu peso ideal.")
-
